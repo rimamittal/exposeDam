@@ -19,4 +19,7 @@
     </jcr:content>
     <en/>
     <fr/>
+    <renderImages
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="poc/components/content/renderImage"/>
 </jcr:root>
